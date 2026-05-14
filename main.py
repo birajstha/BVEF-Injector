@@ -16,9 +16,9 @@ def resource_path(relative_path):
 # create the root window in tkinter
 root = Tk()
 root.iconbitmap(resource_path("LSL_ico.ico"))
-root.title('BVEF Coordinate Injector for LSL')
+root.title('BVEF Channel Label Injector for LSL')
 root.resizable(False, False)
-root.geometry('350x200')
+root.geometry('420x220')
 
 BVEF = ""
 LSL = ""

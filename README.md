@@ -6,7 +6,7 @@ The program can be used via downloading and launching the compiled executable, f
 This route involves no extra installation or configuration of Python or its modules.
 (Those who wish can also view, download, and run the associated Python code directly)
 
-<img width="350" height="229" alt="image" src="https://github.com/user-attachments/assets/f7266e13-3619-4134-b7f9-35d459da6f00" />
+<img width="350" height="229" alt="image" src="./Screenshot.png" />
 
 ## Usage
 1. Select your BVEF file containing channel locations and coordinates
